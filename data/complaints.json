@@ -1,0 +1,47 @@
+[
+    {
+        "student": "Vaibhav Hansraj",
+        "room": "26BCE10988",
+        "type": "Cleaning",
+        "description": "my room has not been cleaned from last 3 days",
+        "priority": "High",
+        "status": "Resolved",
+        "id": "C001"
+    },
+    {
+        "student": "Vaibhav Hansraj",
+        "room": "A611",
+        "type": "Electrical",
+        "description": "my room's fan is not working",
+        "priority": "High",
+        "status": "Pending",
+        "id": "C002"
+    },
+    {
+        "student": "Vaibhav",
+        "room": "A513",
+        "type": "Electrical",
+        "description": "Celling fan is not working",
+        "priority": "High",
+        "status": "Pending",
+        "id": "C003"
+    },
+    {
+        "student": "Vaibhav Hansraj",
+        "room": "A304",
+        "type": "Furniture",
+        "description": "My bed is broken",
+        "priority": "High",
+        "status": "Resolved",
+        "id": "C004"
+    },
+    {
+        "student": "vaibhav hansraj",
+        "room": "A611",
+        "type": "Electrical",
+        "description": "Celling fan is not working",
+        "priority": "High",
+        "status": "Pending",
+        "id": "C005"
+    }
+]
